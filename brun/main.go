@@ -1,10 +1,10 @@
 package main
 
 import (
+	_ "github.com/slomo0808/account"
 	"github.com/slomo0808/infra"
 	"github.com/slomo0808/infra/comm"
 	"github.com/tietang/props/ini"
-	_ "imooc.com/resk"
 )
 
 func main() {

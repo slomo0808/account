@@ -1,4 +1,4 @@
-module imooc.com/resk
+module github.com/slomo0808/account
 
 go 1.12
 

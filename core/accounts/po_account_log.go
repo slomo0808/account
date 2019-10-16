@@ -2,7 +2,7 @@ package accounts
 
 import (
 	"github.com/shopspring/decimal"
-	"imooc.com/resk/services"
+	"github.com/slomo0808/account/services"
 	"time"
 )
 

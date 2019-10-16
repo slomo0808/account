@@ -5,10 +5,10 @@ import (
 	"github.com/segmentio/ksuid"
 	"github.com/shopspring/decimal"
 	"github.com/sirupsen/logrus"
+	_ "github.com/slomo0808/account/textx"
 	"github.com/slomo0808/infra/base"
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/tietang/dbx"
-	_ "imooc.com/resk/textx"
 	"testing"
 )
 

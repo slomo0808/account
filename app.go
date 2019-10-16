@@ -1,10 +1,10 @@
 package resk
 
 import (
+	_ "github.com/slomo0808/account/apis/web"
+	_ "github.com/slomo0808/account/core/accounts"
 	"github.com/slomo0808/infra"
 	"github.com/slomo0808/infra/base"
-	_ "imooc.com/resk/apis/web"
-	_ "imooc.com/resk/core/accounts"
 )
 
 func init() {

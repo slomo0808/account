@@ -2,8 +2,8 @@ package accounts
 
 import (
 	"github.com/segmentio/ksuid"
+	"github.com/slomo0808/account/services"
 	. "github.com/smartystreets/goconvey/convey"
-	"imooc.com/resk/services"
 	"testing"
 )
 
